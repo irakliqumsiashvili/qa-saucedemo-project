@@ -20,7 +20,7 @@
 **Environment: Chrome v144.0.7559.97, Windows Pro 22H2 x64**  
 **Precondition: User is on login page**  
 **Steps to Reproduce:**<br>
-**1. Enter username unaccepted username "Stndrd_user"-for example  
+**1. Enter unaccepted username "Stndrd_user"-for example  
 2. Enter password "secret_sauce"  
 3. Click Login button**  
 **Actual Result: Error message is unclear and unreadeble for user**  
