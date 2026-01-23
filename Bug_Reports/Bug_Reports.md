@@ -36,10 +36,10 @@
 **Environment: Chrome v144.0.7559.97, Windows Pro 22H2 x64**  
 **Precondition: User is logged in with "problem_user" username**  
 **Steps to Reproduce:**<br>
-**1. Enter "problem_user" in username field 
-2. Enter password "secret_sauce"  
-3. Click Login button
-4. Open product page
+**1. Enter "problem_user" in username field <br>
+2. Enter password "secret_sauce"<br>
+3. Click Login button <br>
+4. Open product page <br>
 5. Observe product images**  
 **Actual Result: Displayed product images are incorrect**  
 **Expected Result: Every product imege should be displayed according to requirments**  
