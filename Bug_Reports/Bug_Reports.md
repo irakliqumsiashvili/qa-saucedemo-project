@@ -19,7 +19,7 @@ Steps to Reproduce:<br>
 **Title: Error message is unclear for invalid login**  
 **Environment: Chrome v144.0.7559.97, Windows Pro 22H2 x64**  
 **Precondition: User is on login page**  
-**Steps to Reproduce:**<br>
+Steps to Reproduce:<br>
 **1. Enter unaccepted username, "Stndrd_user"-for example  
 2. Enter password "secret_sauce"  
 3. Click Login button**  
@@ -35,7 +35,7 @@ Steps to Reproduce:<br>
 **Title: Incorrect product image displayed (problem_user)**  
 **Environment: Chrome v144.0.7559.97, Windows Pro 22H2 x64**  
 **Precondition: User is logged in with "problem_user" username**  
-**Steps to Reproduce:**<br>
+Steps to Reproduce:<br>
 **1. Enter "problem_user" in username field <br>
 2. Enter password "secret_sauce"<br>
 3. Click Login button <br>
@@ -52,7 +52,7 @@ Steps to Reproduce:<br>
 **Title: Sorting does not work correctly**  
 **Environment: Chrome v144.0.7559.97, Windows Pro 22H2 x64**  
 **Precondition: User is logged in with "problem_user" username**  
-**Steps to Reproduce:**<br>
+Steps to Reproduce:<br>
 **1. Open products page <br>
 2. Click on sorting drop-down<br>
 3. Choose any sorting style  
@@ -67,7 +67,7 @@ Steps to Reproduce:<br>
 **Title: Cart icon counter does not decrease after removing product**  
 **Environment: Chrome v144.0.7559.97, Windows Pro 22H2 x64**  
 **Precondition: User is logged in and product is added to cart**  
-**Steps to Reproduce:**<br>
+Steps to Reproduce:<br>
 **1.Add any product to cart <br>
 2. Click Cart icon<br>
 3. Click “Remove” button for the product  
