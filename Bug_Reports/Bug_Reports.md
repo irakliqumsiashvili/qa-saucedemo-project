@@ -186,9 +186,9 @@ Steps to Reproduce:<br>
 **Title: Incorrect product image is displayed for problem user**  
 **Environment: Chrome v144.0.7559.97, Windows Pro 22H2 x64**  
 **Precondition: User logs in as problem_user**
-**Steps to Reproduce:<br>
+Steps to Reproduce:<br>
 **1.Log in as problem_user <br>
-2. Open Products page <br>
+2. Open Products page <br>**
 **Actual Result: Product images do not match products**  
 **Expected Result: Correct image should be displayed for each product**  
 **Severity: Medium**  
