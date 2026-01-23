@@ -10,3 +10,4 @@
 | TC-006 | Open Products page after login | User is logged in | 1. Log in with valid credentials |  standard_user / secret_sauce | Products page is displayed | 
 | TC-007 | Display product list | User is on Products page | 1. Observe product list | N/A | All products are displayed with name, price and image |
 | TC-008 | Display product details | User is on Products page | 1. Observe any product | N/A | Product name, description, price and image are displayed |
+| TC-009 | Open product details page | User is on Products page | 1. Click on product name | N/A | Product details page is opened |
