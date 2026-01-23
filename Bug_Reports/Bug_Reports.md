@@ -154,7 +154,7 @@ Steps to Reproduce:<br>
 ## BUG-011
 **Title: Error message is not cleared after successful login**  
 **Environment: Chrome v144.0.7559.97, Windows Pro 22H2 x64**  
-**Precondition: Invalid login attempt was made
+**Precondition: Invalid login attempt was made**
 Steps to Reproduce:<br>
 **1.Enter invalid credentials <br>
 2. Observe error message <br>
@@ -171,7 +171,7 @@ Steps to Reproduce:<br>
 ## BUG-012
 **Title: Incorrect product image is displayed for problem user**  
 **Environment: Chrome v144.0.7559.97, Windows Pro 22H2 x64**  
-**Precondition: User logs in as problem_user
+**Precondition: User logs in as problem_user**
 Steps to Reproduce:<br>
 **1.Log in as problem_user <br>
 2. Open Products page <br>
@@ -185,7 +185,7 @@ Steps to Reproduce:<br>
 ## BUG-013
 **Title: Incorrect product image is displayed for problem user**  
 **Environment: Chrome v144.0.7559.97, Windows Pro 22H2 x64**  
-**Precondition: User logs in as problem_user
+**Precondition: User logs in as problem_user**
 Steps to Reproduce:<br>
 **1.Log in as problem_user <br>
 2. Open Products page <br>
