@@ -18,3 +18,7 @@
 | TC-014 | Open Cart page | User is logged in | 1. Click Cart icon | standard_user / secret_sauce | Cart page is opened | 
 | TC-015 | Display added product in cart | Product is added to cart | 1. Open Cart page | N/A | Added product is displayed in cart |
 | TC-016 | Verify product details in cart | Product is added to cart | 1. Open Cart page | N/A | Product name, price and quantity are displayed |
+| TC-017 | Remove product from cart | Product is added to cart | 1. Click “Remove” button | N/A | Product is removed from cart | 
+| TC-018 | Continue shopping from cart | User is on Cart page | 1. Click “Continue Shopping” button | N/A | User is redirected to Products page | 
+| TC-019 | Start checkout process from cart | Product is added to cart | 1. Click “Checkout” button | N/A | Checkout information page is opened | 
+| TC-020 | Cart state after page refresh | Product is added to cart | 1. Refresh the page <br> 2. Open Cart page | N/A | Added product is still present in cart | 
