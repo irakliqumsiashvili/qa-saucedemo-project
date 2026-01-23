@@ -94,18 +94,44 @@
 **Attached file: Screenshot/Screenrecording should be attached**
 ---
 
-## BUG-006
-**Title: Removed product is still displayed in cart after page refresh**  
+## BUG-007
+**Title: Cart page allows checkout with empty cart**  
+**Environment: Chrome v144.0.7559.97, Windows Pro 22H2 x64**  
+**Precondition: User is logged in**  
+**Steps to Reproduce:**<br>
+**1. Open Cart page <br>
+2. Click “Checkout” button 
+**Actual Result: Checkout process starts with empty cart**  
+**Expected Result: Checkout should not be allowed with empty cart**  
+**Severity: High**  
+**Priority: High**  
+**Attached file: Screenshot/Screenrecording should be attached**
+---
+
+## BUG-008
+**Title: Cart page does not display correct product quantity**  
+**Environment: Chrome v144.0.7559.97, Windows Pro 22H2 x64**  
+**Precondition: User is logged in and multiple products are added to cart**  
+**Steps to Reproduce:**<br>
+**1.Add two different products to cart <br>
+2. Open Cart page 
+**Actual Result: Product quantity is displayed incorrectly**  
+**Expected Result: Correct product quantity should be displayed**  
+**Severity: Medium**  
+**Priority: Medium**  
+**Attached file: Screenshot/Screenrecording should be attached**
+---
+
+## BUG-009
+**Title: Cart icon counter is not updated after page refresh**  
 **Environment: Chrome v144.0.7559.97, Windows Pro 22H2 x64**  
 **Precondition: User is logged in and product is added to cart**  
 **Steps to Reproduce:**<br>
-**1.Add any product to cart <br>
-2. Open Cart page <br>
-3. Remove product  <br>
-4. Refresh the page
-**Actual Result: Removed product is displayed again in cart**  
-**Expected Result: Removed product should not be displayed after page refresh**  
-**Severity: High**  
-**Priority: High**  
+**1.Add product to cart <br>
+2. Refresh the page
+**Actual Result: Cart icon counter resets**  
+**Expected Result: The trash can icon counter should keep the correct value.**  
+**Severity: Medium**  
+**Priority: Medium**  
 **Attached file: Screenshot/Screenrecording should be attached**
 ---
