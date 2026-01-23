@@ -86,7 +86,7 @@ Steps to Reproduce:<br>
 1.Add any product to cart <br>
 2. Open Cart page <br>
 3. Remove product  <br>
-4. Refresh the page
+4. Refresh the page <br>
 **Actual Result: Removed product is displayed again in cart**  
 **Expected Result: Removed product should not be displayed after page refresh**  
 **Severity: High**  
