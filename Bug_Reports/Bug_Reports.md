@@ -34,7 +34,7 @@
 ## BUG-003
 **Title: Incorrect product image displayed (problem_user)**  
 **Environment: Chrome v144.0.7559.97, Windows Pro 22H2 x64**  
-**Precondition: User is logged in with problem_user username**  
+**Precondition: User is logged in with "problem_user" username**  
 **Steps to Reproduce:**<br>
 **1. Enter "problem_user" in username field 
 2. Enter password "secret_sauce"  
