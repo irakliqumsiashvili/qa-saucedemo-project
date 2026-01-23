@@ -82,7 +82,7 @@ Steps to Reproduce:<br>
 **Title: Removed product is still displayed in cart after page refresh**  
 **Environment: Chrome v144.0.7559.97, Windows Pro 22H2 x64**  
 **Precondition: User is logged in and product is added to cart**  
-**Steps to Reproduce:**<br>
+Steps to Reproduce:<br>
 **1.Add any product to cart <br>
 2. Open Cart page <br>
 3. Remove product  <br>
@@ -98,7 +98,7 @@ Steps to Reproduce:<br>
 **Title: Cart page allows checkout with empty cart**  
 **Environment: Chrome v144.0.7559.97, Windows Pro 22H2 x64**  
 **Precondition: User is logged in**  
-**Steps to Reproduce:**<br>
+Steps to Reproduce:<br>
 **1. Open Cart page <br>
 2. Click “Checkout” button 
 **Actual Result: Checkout process starts with empty cart**  
@@ -112,7 +112,7 @@ Steps to Reproduce:<br>
 **Title: Cart page does not display correct product quantity**  
 **Environment: Chrome v144.0.7559.97, Windows Pro 22H2 x64**  
 **Precondition: User is logged in and multiple products are added to cart**  
-**Steps to Reproduce:**<br>
+Steps to Reproduce:<br>
 **1.Add two different products to cart <br>
 2. Open Cart page 
 **Actual Result: Product quantity is displayed incorrectly**  
@@ -126,7 +126,7 @@ Steps to Reproduce:<br>
 **Title: Cart icon counter is not updated after page refresh**  
 **Environment: Chrome v144.0.7559.97, Windows Pro 22H2 x64**  
 **Precondition: User is logged in and product is added to cart**  
-**Steps to Reproduce:**<br>
+Steps to Reproduce:<br>
 **1.Add product to cart <br>
 2. Refresh the page
 **Actual Result: Cart icon counter resets**  
@@ -140,7 +140,7 @@ Steps to Reproduce:<br>
 **Title: Locked out user is able to log in**  
 **Environment: Chrome v144.0.7559.97, Windows Pro 22H2 x64**  
 **Precondition: User is on login page**  
-**Steps to Reproduce:**<br>
+Steps to Reproduce:<br>
 **1.Enter username locked_out_user <br>
 2. Enter password secret_sauce <br>
 3. Click login
@@ -155,7 +155,7 @@ Steps to Reproduce:<br>
 **Title: Error message is not cleared after successful login**  
 **Environment: Chrome v144.0.7559.97, Windows Pro 22H2 x64**  
 **Precondition: Invalid login attempt was made
-**Steps to Reproduce:**<br>
+Steps to Reproduce:<br>
 **1.Enter invalid credentials <br>
 2. Observe error message <br>
 3. Enter valid credentials <br>
@@ -172,7 +172,7 @@ Steps to Reproduce:<br>
 **Title: Incorrect product image is displayed for problem user**  
 **Environment: Chrome v144.0.7559.97, Windows Pro 22H2 x64**  
 **Precondition: User logs in as problem_user
-**Steps to Reproduce:**<br>
+Steps to Reproduce:<br>
 **1.Log in as problem_user <br>
 2. Open Products page 
 **Actual Result: Product images do not match products**  
@@ -186,7 +186,7 @@ Steps to Reproduce:<br>
 **Title: Incorrect product image is displayed for problem user**  
 **Environment: Chrome v144.0.7559.97, Windows Pro 22H2 x64**  
 **Precondition: User logs in as problem_user
-**Steps to Reproduce:**<br>
+Steps to Reproduce:<br>
 **1.Log in as problem_user <br>
 2. Open Products page 
 **Actual Result: Product images do not match products**  
