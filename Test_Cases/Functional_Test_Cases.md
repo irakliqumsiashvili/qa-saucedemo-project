@@ -14,3 +14,5 @@
 | TC-010 | Add product to cart from Products page | User is on Products page | 1. Click “Add to cart” button for a product | N/A | Product is added to cart and cart icon is updated |
 | TC-011 | Remove product from cart on Products page | Product is added to cart | 1. Click “Remove” button | N/A | Product is removed from cart and cart icon is updated
 | TC-012 | Verify sorting by Name (A to Z) | User is on Products page | 1. Select “Name (A to Z)” from sorting dropdown | N/A | Products are sorted by name in ascending order | 
+| TC-013 | Verify sorting by Price (low to high) | User is on Products page | 1. Select “Price (low to high)” from sorting dropdown | N/A | Products are sorted by price in ascending order |
+| TC-014 | Open Cart page | User is logged in | 1. Click Cart icon | N/A | Cart page is opened | 
