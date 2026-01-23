@@ -100,7 +100,7 @@ Steps to Reproduce:<br>
 **Precondition: User is logged in**  
 Steps to Reproduce:<br> 
 *1. Open Cart page <br>
-2. Click “Checkout” button 
+2. Click “Checkout” button <br>
 **Actual Result: Checkout process starts with empty cart**  
 **Expected Result: Checkout should not be allowed with empty cart**  
 **Severity: High**  
