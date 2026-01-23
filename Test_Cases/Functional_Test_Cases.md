@@ -11,3 +11,6 @@
 | TC-007 | Display product list | User is on Products page | 1. Observe product list | N/A | All products are displayed with name, price and image |
 | TC-008 | Display product details | User is on Products page | 1. Observe any product | N/A | Product name, description, price and image are displayed |
 | TC-009 | Open product details page | User is on Products page | 1. Click on product name | N/A | Product details page is opened |
+| TC-010 | Add product to cart from Products page | User is on Products page | 1. Click “Add to cart” button for a product | N/A | Product is added to cart and cart icon is updated |
+| TC-011 | Remove product from cart on Products page | Product is added to cart | 1. Click “Remove” button | N/A | Product is removed from cart and cart icon is updated
+| TC-012 | Verify sorting by Name (A to Z) | User is on Products page | 1. Select “Name (A to Z)” from sorting dropdown | N/A | Products are sorted by name in ascending order | 
