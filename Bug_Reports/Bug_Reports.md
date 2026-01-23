@@ -83,10 +83,10 @@ Steps to Reproduce:<br>
 **Environment: Chrome v144.0.7559.97, Windows Pro 22H2 x64**  
 **Precondition: User is logged in and product is added to cart**  
 Steps to Reproduce:<br>
-**1.Add any product to cart <br>
+1.Add any product to cart <br>
 2. Open Cart page <br>
 3. Remove product  <br>
-4. Refresh the page**
+4. Refresh the page
 **Actual Result: Removed product is displayed again in cart**  
 **Expected Result: Removed product should not be displayed after page refresh**  
 **Severity: High**  
