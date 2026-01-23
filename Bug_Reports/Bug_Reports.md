@@ -135,3 +135,63 @@
 **Priority: Medium**  
 **Attached file: Screenshot/Screenrecording should be attached**
 ---
+
+## BUG-010
+**Title: Locked out user is able to log in**  
+**Environment: Chrome v144.0.7559.97, Windows Pro 22H2 x64**  
+**Precondition: User is on login page**  
+**Steps to Reproduce:**<br>
+**1.Enter username locked_out_user <br>
+2. Enter password secret_sauce <br>
+3. Click login
+**Actual Result: User is logged in successfully**  
+**Expected Result: User should see error message and login should be blocked**  
+**Severity: High**  
+**Priority: High**  
+**Attached file: Screenshot/Screenrecording should be attached**
+---
+
+## BUG-011
+**Title: Error message is not cleared after successful login**  
+**Environment: Chrome v144.0.7559.97, Windows Pro 22H2 x64**  
+**Precondition: Invalid login attempt was made
+**Steps to Reproduce:**<br>
+**1.Enter invalid credentials <br>
+2. Observe error message <br>
+3. Enter valid credentials <br>
+4. Click Login
+**Actual Result: Error message remains visible**  
+**Expected Result: Error message should disappear after successful login**  
+**Severity: Medium**  
+**Priority: Medium**  
+**Attached file: Screenshot/Screenrecording should be attached**
+---
+
+
+## BUG-012
+**Title: Incorrect product image is displayed for problem user**  
+**Environment: Chrome v144.0.7559.97, Windows Pro 22H2 x64**  
+**Precondition: User logs in as problem_user
+**Steps to Reproduce:**<br>
+**1.Log in as problem_user <br>
+2. Open Products page 
+**Actual Result: Product images do not match products**  
+**Expected Result: Correct image should be displayed for each product**  
+**Severity: Medium**  
+**Priority: Medium**  
+**Attached file: Screenshot/Screenrecording should be attached**
+---
+
+## BUG-013
+**Title: Incorrect product image is displayed for problem user**  
+**Environment: Chrome v144.0.7559.97, Windows Pro 22H2 x64**  
+**Precondition: User logs in as problem_user
+**Steps to Reproduce:**<br>
+**1.Log in as problem_user <br>
+2. Open Products page 
+**Actual Result: Product images do not match products**  
+**Expected Result: Correct image should be displayed for each product**  
+**Severity: Medium**  
+**Priority: Medium**  
+**Attached file: Screenshot/Screenrecording should be attached**
+---
