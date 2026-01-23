@@ -113,8 +113,8 @@ Steps to Reproduce:<br>
 **Environment: Chrome v144.0.7559.97, Windows Pro 22H2 x64**  
 **Precondition: User is logged in and multiple products are added to cart**  
 Steps to Reproduce:<br>
-**1.Add two different products to cart <br>
-2. Open Cart page **
+1.Add two different products to cart <br>
+2. Open Cart page <br>
 **Actual Result: Product quantity is displayed incorrectly**  
 **Expected Result: Correct product quantity should be displayed**  
 **Severity: Medium**  
