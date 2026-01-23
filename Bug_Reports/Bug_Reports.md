@@ -98,9 +98,9 @@ Steps to Reproduce:<br>
 **Title: Cart page allows checkout with empty cart**  
 **Environment: Chrome v144.0.7559.97, Windows Pro 22H2 x64**  
 **Precondition: User is logged in**  
-Steps to Reproduce:<br>
+Steps to Reproduce:<br> 
 **1. Open Cart page <br>
-2. Click “Checkout” button <br>
+2. Click “Checkout” button <br> **
 **Actual Result: Checkout process starts with empty cart**  
 **Expected Result: Checkout should not be allowed with empty cart**  
 **Severity: High**  
