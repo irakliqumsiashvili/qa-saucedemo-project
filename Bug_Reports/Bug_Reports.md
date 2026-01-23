@@ -70,7 +70,7 @@ Steps to Reproduce:<br>
 Steps to Reproduce:<br>
 **1.Add any product to cart <br>
 2. Click Cart icon<br>
-3. Click “Remove” button for the product  **
+3. Click “Remove” button for the product <br> **
 **Actual Result: Cart icon counter is not updated**  
 **Expected Result: Cart icon counter should decrease after product removal**  
 **Severity: Medium**  
