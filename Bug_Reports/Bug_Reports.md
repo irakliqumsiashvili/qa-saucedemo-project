@@ -47,3 +47,65 @@
 **Priority: High**  
 **Attached file: Screenshot/Screenrecording should be attached**
 ---
+
+## BUG-004
+**Title: Sorting does not work correctly**  
+**Environment: Chrome v144.0.7559.97, Windows Pro 22H2 x64**  
+**Precondition: User is logged in with "problem_user" username**  
+**Steps to Reproduce:**<br>
+**1. Open products page <br>
+2. Click on sorting drop-down<br>
+3. Choose any sorting style  
+**Actual Result: Changing of sorting style doesn't change anything**  
+**Expected Result: By changing the sorting style, products should be displayed in the selected order**  
+**Severity: Low**  
+**Priority: Low**  
+**Attached file: Screenshot/Screenrecording should be attached**
+---
+
+## BUG-005
+**Title: Cart icon counter does not decrease after removing product**  
+**Environment: Chrome v144.0.7559.97, Windows Pro 22H2 x64**  
+**Precondition: User is logged in and product is added to cart**  
+**Steps to Reproduce:**<br>
+**1.Add any product to cart <br>
+2. Click Cart icon<br>
+3. Click “Remove” button for the product  
+**Actual Result: Cart icon counter is not updated**  
+**Expected Result: Cart icon counter should decrease after product removal**  
+**Severity: Medium**  
+**Priority: Medium**  
+**Attached file: Screenshot/Screenrecording should be attached**
+---
+
+## BUG-006
+**Title: Removed product is still displayed in cart after page refresh**  
+**Environment: Chrome v144.0.7559.97, Windows Pro 22H2 x64**  
+**Precondition: User is logged in and product is added to cart**  
+**Steps to Reproduce:**<br>
+**1.Add any product to cart <br>
+2. Open Cart page <br>
+3. Remove product  <br>
+4. Refresh the page
+**Actual Result: Removed product is displayed again in cart**  
+**Expected Result: Removed product should not be displayed after page refresh**  
+**Severity: High**  
+**Priority: High**  
+**Attached file: Screenshot/Screenrecording should be attached**
+---
+
+## BUG-006
+**Title: Removed product is still displayed in cart after page refresh**  
+**Environment: Chrome v144.0.7559.97, Windows Pro 22H2 x64**  
+**Precondition: User is logged in and product is added to cart**  
+**Steps to Reproduce:**<br>
+**1.Add any product to cart <br>
+2. Open Cart page <br>
+3. Remove product  <br>
+4. Refresh the page
+**Actual Result: Removed product is displayed again in cart**  
+**Expected Result: Removed product should not be displayed after page refresh**  
+**Severity: High**  
+**Priority: High**  
+**Attached file: Screenshot/Screenrecording should be attached**
+---
