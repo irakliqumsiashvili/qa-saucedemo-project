@@ -159,7 +159,7 @@ Steps to Reproduce:<br>
 **1.Enter invalid credentials <br>
 2. Observe error message <br>
 3. Enter valid credentials <br>
-4. Click Login
+4. Click Login**
 **Actual Result: Error message remains visible**  
 **Expected Result: Error message should disappear after successful login**  
 **Severity: Medium**  
@@ -174,7 +174,7 @@ Steps to Reproduce:<br>
 **Precondition: User logs in as problem_user
 Steps to Reproduce:<br>
 **1.Log in as problem_user <br>
-2. Open Products page 
+2. Open Products page **
 **Actual Result: Product images do not match products**  
 **Expected Result: Correct image should be displayed for each product**  
 **Severity: Medium**  
