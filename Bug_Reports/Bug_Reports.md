@@ -127,8 +127,8 @@ Steps to Reproduce:<br>
 **Environment: Chrome v144.0.7559.97, Windows Pro 22H2 x64**  
 **Precondition: User is logged in and product is added to cart**  
 Steps to Reproduce:<br>
-**1.Add product to cart <br>
-2. Refresh the page**
+1.Add product to cart <br>
+2. Refresh the page <br>
 **Actual Result: Cart icon counter resets**  
 **Expected Result: The trash can icon counter should keep the correct value.**  
 **Severity: Medium**  
@@ -141,9 +141,9 @@ Steps to Reproduce:<br>
 **Environment: Chrome v144.0.7559.97, Windows Pro 22H2 x64**  
 **Precondition: User is on login page**  
 Steps to Reproduce:<br>
-**1.Enter username locked_out_user <br>
+1.Enter username locked_out_user <br>
 2. Enter password secret_sauce <br>
-3. Click login**
+3. Click login <br>
 **Actual Result: User is logged in successfully**  
 **Expected Result: User should see error message and login should be blocked**  
 **Severity: High**  
@@ -156,10 +156,10 @@ Steps to Reproduce:<br>
 **Environment: Chrome v144.0.7559.97, Windows Pro 22H2 x64**  
 **Precondition: Invalid login attempt was made**
 Steps to Reproduce:<br>
-**1.Enter invalid credentials <br>
+1.Enter invalid credentials <br>
 2. Observe error message <br>
 3. Enter valid credentials <br>
-4. Click Login**
+4. Click Login <br>
 **Actual Result: Error message remains visible**  
 **Expected Result: Error message should disappear after successful login**  
 **Severity: Medium**  
@@ -173,8 +173,8 @@ Steps to Reproduce:<br>
 **Environment: Chrome v144.0.7559.97, Windows Pro 22H2 x64**  
 **Precondition: User logs in as problem_user**
 Steps to Reproduce:<br>
-**1.Log in as problem_user <br>
-2. Open Products page <br>**
+1.Log in as problem_user <br>
+2. Open Products page <br>
 **Actual Result: Product images do not match products**  
 **Expected Result: Correct image should be displayed for each product**  
 **Severity: Medium**  
