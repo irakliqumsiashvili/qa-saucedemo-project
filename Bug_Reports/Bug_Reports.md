@@ -174,7 +174,7 @@ Steps to Reproduce:<br>
 **Precondition: User logs in as problem_user
 Steps to Reproduce:<br>
 **1.Log in as problem_user <br>
-2. Open Products page **
+2. Open Products page <br>
 **Actual Result: Product images do not match products**  
 **Expected Result: Correct image should be displayed for each product**  
 **Severity: Medium**  
@@ -188,7 +188,7 @@ Steps to Reproduce:<br>
 **Precondition: User logs in as problem_user
 Steps to Reproduce:<br>
 **1.Log in as problem_user <br>
-2. Open Products page 
+2. Open Products page <br>
 **Actual Result: Product images do not match products**  
 **Expected Result: Correct image should be displayed for each product**  
 **Severity: Medium**  
