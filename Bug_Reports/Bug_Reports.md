@@ -55,7 +55,7 @@ Steps to Reproduce:<br>
 Steps to Reproduce:<br>
 **1. Open products page <br>
 2. Click on sorting drop-down<br>
-3. Choose any sorting style  
+3. Choose any sorting style **
 **Actual Result: Changing of sorting style doesn't change anything**  
 **Expected Result: By changing the sorting style, products should be displayed in the selected order**  
 **Severity: Low**  
@@ -70,7 +70,7 @@ Steps to Reproduce:<br>
 Steps to Reproduce:<br>
 **1.Add any product to cart <br>
 2. Click Cart icon<br>
-3. Click “Remove” button for the product  
+3. Click “Remove” button for the product  **
 **Actual Result: Cart icon counter is not updated**  
 **Expected Result: Cart icon counter should decrease after product removal**  
 **Severity: Medium**  
@@ -86,7 +86,7 @@ Steps to Reproduce:<br>
 **1.Add any product to cart <br>
 2. Open Cart page <br>
 3. Remove product  <br>
-4. Refresh the page
+4. Refresh the page**
 **Actual Result: Removed product is displayed again in cart**  
 **Expected Result: Removed product should not be displayed after page refresh**  
 **Severity: High**  
@@ -100,7 +100,7 @@ Steps to Reproduce:<br>
 **Precondition: User is logged in**  
 Steps to Reproduce:<br>
 **1. Open Cart page <br>
-2. Click “Checkout” button 
+2. Click “Checkout” button **
 **Actual Result: Checkout process starts with empty cart**  
 **Expected Result: Checkout should not be allowed with empty cart**  
 **Severity: High**  
@@ -114,7 +114,7 @@ Steps to Reproduce:<br>
 **Precondition: User is logged in and multiple products are added to cart**  
 Steps to Reproduce:<br>
 **1.Add two different products to cart <br>
-2. Open Cart page 
+2. Open Cart page **
 **Actual Result: Product quantity is displayed incorrectly**  
 **Expected Result: Correct product quantity should be displayed**  
 **Severity: Medium**  
@@ -128,7 +128,7 @@ Steps to Reproduce:<br>
 **Precondition: User is logged in and product is added to cart**  
 Steps to Reproduce:<br>
 **1.Add product to cart <br>
-2. Refresh the page
+2. Refresh the page**
 **Actual Result: Cart icon counter resets**  
 **Expected Result: The trash can icon counter should keep the correct value.**  
 **Severity: Medium**  
@@ -143,7 +143,7 @@ Steps to Reproduce:<br>
 Steps to Reproduce:<br>
 **1.Enter username locked_out_user <br>
 2. Enter password secret_sauce <br>
-3. Click login
+3. Click login**
 **Actual Result: User is logged in successfully**  
 **Expected Result: User should see error message and login should be blocked**  
 **Severity: High**  
@@ -174,7 +174,7 @@ Steps to Reproduce:<br>
 **Precondition: User logs in as problem_user**
 Steps to Reproduce:<br>
 **1.Log in as problem_user <br>
-2. Open Products page <br>
+2. Open Products page <br>**
 **Actual Result: Product images do not match products**  
 **Expected Result: Correct image should be displayed for each product**  
 **Severity: Medium**  
