@@ -68,9 +68,9 @@ Steps to Reproduce:<br>
 **Environment: Chrome v144.0.7559.97, Windows Pro 22H2 x64**  
 **Precondition: User is logged in and product is added to cart**  
 Steps to Reproduce:<br>
-**1.Add any product to cart <br>
+1.Add any product to cart <br>
 2. Click Cart icon<br>
-3. Click “Remove” button for the product <br> **
+3. Click “Remove” button for the product <br> 
 **Actual Result: Cart icon counter is not updated**  
 **Expected Result: Cart icon counter should decrease after product removal**  
 **Severity: Medium**  
