@@ -20,12 +20,30 @@
 **Environment: Chrome v144.0.7559.97, Windows Pro 22H2 x64**  
 **Precondition: User is on login page**  
 **Steps to Reproduce:**<br>
-**1. Enter unaccepted username "Stndrd_user"-for example  
+**1. Enter unaccepted username, "Stndrd_user"-for example  
 2. Enter password "secret_sauce"  
 3. Click Login button**  
 **Actual Result: Error message is unclear and unreadeble for user**  
 **Expected Result: User should be able to clearly see and be able to read error message**  
 **Severity: Low**  
 **Priority: Medium**  
+**Attached file: Screenshot/Screenrecording should be attached**
+---
+
+
+## BUG-003
+**Title: Incorrect product image displayed (problem_user)**  
+**Environment: Chrome v144.0.7559.97, Windows Pro 22H2 x64**  
+**Precondition: User is logged in with problem_user username**  
+**Steps to Reproduce:**<br>
+**1. Enter "problem_user" in username field 
+2. Enter password "secret_sauce"  
+3. Click Login button
+4. Open product page
+5. Observe product images**  
+**Actual Result: Displayed product images are incorrect**  
+**Expected Result: Every product imege should be displayed according to requirments**  
+**Severity: Medium**  
+**Priority: High**  
 **Attached file: Screenshot/Screenrecording should be attached**
 ---
