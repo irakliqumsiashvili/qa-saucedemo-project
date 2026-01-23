@@ -195,3 +195,16 @@ Steps to Reproduce:<br>
 **Priority: Medium**  
 **Attached file: Screenshot/Screenrecording should be attached**
 ---
+
+## BUG-014
+**Title: Product description text overlaps UI elements**  
+**Environment: Chrome v144.0.7559.97, Windows Pro 22H2 x64**  
+**Precondition: User is on Products page**  
+Steps to Reproduce:<br>
+1.Observe product descriptions <br>
+**Actual Result: Cart icon counter resets**  
+**Expected Result: The trash can icon counter should keep the correct value.**  
+**Severity: Medium**  
+**Priority: Medium**  
+**Attached file: Screenshot/Screenrecording should be attached**
+---
