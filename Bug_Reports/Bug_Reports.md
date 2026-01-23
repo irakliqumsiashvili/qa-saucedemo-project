@@ -55,7 +55,7 @@ Steps to Reproduce:<br>
 Steps to Reproduce:<br>
 **1. Open products page <br>
 2. Click on sorting drop-down<br>
-3. Choose any sorting style **
+3. Choose any sorting style <br>**
 **Actual Result: Changing of sorting style doesn't change anything**  
 **Expected Result: By changing the sorting style, products should be displayed in the selected order**  
 **Severity: Low**  
