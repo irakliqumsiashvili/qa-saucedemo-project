@@ -10,7 +10,7 @@
 - Tool: Postman (Desktop)
 - API: Restful Booker
 - Endpoint: `PUT /booking/{id}`
-- OS/Network: (fill in: Windows/macOS, home/office, VPN on/off)
+- OS/Network: (Windows 11, VPN off)
 
 **Preconditions**
 - `token` is generated via `POST /auth`
@@ -31,9 +31,6 @@
 - HTTP `200 OK`
 - Response body contains updated booking data
 
-**Attachments / Evidence**
-- (Add screenshot of Postman error)
-- (Optional) Postman Console log entry
 
 **Severity / Priority**
 - Severity: Medium (S3) — blocks update tests in Postman
