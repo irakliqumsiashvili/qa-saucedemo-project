@@ -4,7 +4,7 @@
 
 ---
 
-## BR-API-001 — PUT Update Booking fails with `ECONNRESET` in Postman (Observation)
+## BR-API-001 PUT Update Booking fails with `ECONNRESET` in Postman (Observation)
 
 **Environment**
 - Tool: Postman (Desktop)
@@ -42,7 +42,7 @@
 
 ---
 
-## BR-API-002 — FakeStore API returns `523 Origin is unreachable` (Observation)
+## BR-API-002 FakeStore API returns `523 Origin is unreachable` (Observation)
 
 **Environment**
 - Tool: Postman / Browser
@@ -74,7 +74,7 @@
 
 ---
 
-## BR-API-003 — Negative test: non-existing booking returns 404 (Expected Behavior)
+## BR-API-003 Negative test: non-existing booking returns 404 (Expected Behavior)
 
 **Environment**
 - Tool: Postman
