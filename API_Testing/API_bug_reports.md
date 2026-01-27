@@ -92,7 +92,7 @@
 - HTTP `404 Not Found` for non-existing resource
 
 **Result**
-- ✅ Pass (expected negative behavior confirmed)
+- Pass (expected negative behavior confirmed)
 
 **Why included**
 - Demonstrates negative testing and correct error handling validation.
